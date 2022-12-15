@@ -1,6 +1,7 @@
 {
     "deluxe": [
       {
+        "imagem": "https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_960_720.jpg", 
         "id": 1,
         "nome": "Suíte estúdio deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -8,6 +9,7 @@
         "categoria_id": 1
       },
       {
+        "imagem": "https://cdn.pixabay.com/photo/2014/05/17/18/03/lobby-346426_960_720.jpg",
         "id": 2,
         "nome": "Quarto duplo standard deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -15,6 +17,7 @@
         "categoria_id": 1
       },
       {
+        "imagem": "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_960_720.jpg",
         "id": 3,
         "nome": "Quarto duplo superior deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -22,6 +25,7 @@
         "categoria_id": 1
       },
       {
+        "imagem": "https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_960_720.jpg",
         "id": 4,
         "nome": "Quarto triplo superior deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -29,6 +33,7 @@
         "categoria_id": 1
       },
       {
+        "imagem": "https://cdn.pixabay.com/photo/2015/01/16/08/54/motel-601218_960_720.jpg",
         "id": 5,
         "nome": "Quarto triplo deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -36,6 +41,7 @@
         "categoria_id": 1
       },
       {
+        "imagem": "https://cdn.pixabay.com/photo/2020/01/15/18/01/room-4768551_960_720.jpg",
         "id": 6,
         "nome": "Suíte estúdio luxo deluxe",
         "descricao": "Todos os serviços e produtos inclusos.",
@@ -46,6 +52,7 @@
 
     "executivo": [
         {
+          "imagem": "https://cdn.pixabay.com/photo/2014/05/21/14/56/bedroom-349699_960_720.jpg"
           "id": 7,
           "nome": "Suíte estúdio executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis e Ar-condicionado.",
@@ -53,6 +60,7 @@
           "categoria_id": 2
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2017/04/05/15/58/hotelroom-2205447_960_720.jpg"
           "id": 8,
           "nome": "Quarto duplo standard executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -60,6 +68,7 @@
           "categoria_id": 2
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2020/01/15/18/01/room-4768551_960_720.jpg"
           "id": 9,
           "nome": "Quarto duplo superior executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -67,6 +76,7 @@
           "categoria_id": 2
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2016/07/08/23/33/hotel-room-1505455_960_720.jpg"
           "id": 10,
           "nome": "Quarto triplo superior executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -74,6 +84,7 @@
           "categoria_id": 2
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2021/10/06/15/05/bedroom-6686061_960_720.jpg"
           "id": 11,
           "nome": "Quarto triplo standard executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis e Ar-condicionado)",
@@ -81,6 +92,7 @@
           "categoria_id": 2
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2017/08/09/10/42/hotel-rooms-2614141_960_720.jpg"
           "id": 12,
           "nome": "Suíte estúdio luxo executiva",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -91,6 +103,7 @@
 
       "standard": [
         {
+          "imagem": "https://cdn.pixabay.com/photo/2014/05/21/14/56/bedroom-349701_960_720.jpg"
           "id": 13,
           "nome": "Suíte estúdio Standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis e Ar-condicionado.",
@@ -98,6 +111,7 @@
           "categoria_id": 3
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2016/10/13/09/08/travel-1737172_960_720.jpg"
           "id": 14,
           "nome": "Quarto duplo standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -105,6 +119,7 @@
           "categoria_id": 3
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2016/07/08/23/36/beach-house-1505461_960_720.jpg"
           "id": 15,
           "nome": "Quarto duplo superior Standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -112,6 +127,7 @@
           "categoria_id": 3
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2014/05/21/14/56/bedroom-349698_960_720.jpg"
           "id": 16,
           "nome": "Quarto triplo superior Standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis, Ar-condicionado, Restaurante, Recepção 24 horas (todos os dias)",
@@ -119,6 +135,7 @@
           "categoria_id": 3
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2014/10/16/08/39/bedroom-490779_960_720.jpg"
           "id": 17,
           "nome": "Quarto triplo standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis e Ar-condicionado)",
@@ -126,6 +143,7 @@
           "categoria_id": 3
         },
         {
+          "imagem": "https://cdn.pixabay.com/photo/2016/03/28/09/34/bedroom-1285156_960_720.jpg"
           "id": 18,
           "nome": "Suíte estúdio luxo Standard",
           "descricao": "Café da manhã incluído, Wi-Fi grátis e Ar-condicionado",
